@@ -1,11 +1,14 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nato04/nat_datasci.git/pyScript_1A)
+myBinder link for Jupyter Notebook for regrex1.csv Linear Regression assignment - Python
+
+[![Binder](http://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/Nato04/pyScript_1A.git/HEAD)
+
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-[https://mybinder.org/v2/gh/Nato04/nat_datasci.git/pyScript_1A]
+[https://mybinder.org/v2/gh/Nato04/pyScript_1A.git/HEAD]
 
 r version - 4.0
 python version - 3.9
