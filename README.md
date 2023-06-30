@@ -2,7 +2,7 @@
 
 myBinder link for Jupyter Notebook for regrex1.csv Linear Regression assignment - Python
 
-[![Binder](http://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/Nato04/pyScript_1A.git/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nato04/pyScript_1A.git/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
